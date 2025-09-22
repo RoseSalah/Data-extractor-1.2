@@ -8,6 +8,7 @@ The platform aims to help real estate agents identify **mispriced or poorly opti
 
 ---
 
+```
 ## 📂 Project Structure
 
 REAL-ESTATE-LISTING-OPTIMIZATION/
@@ -26,6 +27,7 @@ REAL-ESTATE-LISTING-OPTIMIZATION/
 │── configs.ipynb
 │── debug.ipynb
 │── README.md
+```
 
 ---
 
@@ -56,6 +58,7 @@ python [pipeline.py](http://_vscodecontentref_/11) parse-details --limit 10
 
 # Step 4: End-to-end run (fetch + parse)
 python [pipeline.py](http://_vscodecontentref_/12) run --n 10
+```
 
 Outputs are stored in `data/batches/{batch_id}/`:
 
