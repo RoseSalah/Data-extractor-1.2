@@ -51,13 +51,13 @@ Run from the project root:
 python -m src.batch
 
 # Step 2: Fetch detail pages
-python ([src/pipeline.py](src/pipeline.py)) fetch-details --n 10
+python src/pipeline.py fetch-details --n 10
 
 # Step 3: Parse details into structured JSON
-python ([src/pipeline.py](src/pipeline.py)) parse-details --limit 10
+python src/pipeline.py parse-details --limit 10
 
 # Step 4: End-to-end run (fetch + parse)
-python ([src/pipeline.py](src/pipeline.py)) run --n 10
+python src/pipeline.py run --n 10
 ```
 
 Outputs are stored in `data/batches/{batch_id}/`:
