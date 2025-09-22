@@ -1,0 +1,24 @@
+{
+  "status": 200,
+  "final_url": "https://www.redfin.com/zipcode/77002",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Mon, 22 Sep 2025 15:01:22 GMT",
+    "Server": "istio-envoy",
+    "x-rf-service": "customer-pages-map-dp",
+    "Set-Cookie": "RF_CORVAIR_LAST_VERSION=vLATEST; Max-Age=31536000; Path=/; Expires=Tue, 22 Sep 2026 15:01:22 GMT, RF_BROWSER_ID=V7MvV8p3RMercy6k5lsZzg; Max-Age=63072000; Domain=.redfin.com; Path=/; Expires=Wed, 22 Sep 2027 15:01:22 GMT; Secure; SameSite=None, RF_BROWSER_ID=V7MvV8p3RMercy6k5lsZzg; Domain=.redfin.com; Expires=Wed, 22-Sep-2027 15:01:22 GMT; Path=/; SameSite=None; Secure, RF_BROWSER_ID_GREAT_FIRST_VISIT_TIMESTAMP=2025-09-22T08%3A01%3A22.910296; Domain=.redfin.com; Expires=Tue, 22-Sep-2026 15:01:22 GMT; Path=/; SameSite=None; Secure, RF_BID_UPDATED=1; Domain=.redfin.com; Expires=Mon, 06-Oct-2025 15:01:22 GMT; Path=/; SameSite=None; Secure, RF_TRAFFIC_SEGMENT=non-organic; Path=/; Expires=Mon, 22 Sep 2025 15:06:22 GMT, RF_VISITED=false; Path=/, RF_BROWSER_ID=V7MvV8p3RMercy6k5lsZzg; Domain=.redfin.com; Expires=Wed, 22-Sep-2027 15:01:22 GMT; Path=/; SameSite=None; Secure, RF_BROWSER_ID_GREAT_FIRST_VISIT_TIMESTAMP=2025-09-22T08%3A01%3A22.910296; Domain=.redfin.com; Expires=Tue, 22-Sep-2026 15:01:22 GMT; Path=/; SameSite=None; Secure, RF_BID_UPDATED=1; Domain=.redfin.com; Expires=Mon, 06-Oct-2025 15:01:22 GMT; Path=/; SameSite=None; Secure, searchMode=1; Path=/; Expires=Tue, 22 Sep 2026 15:01:22 GMT, searchMode=1; Path=/; Expires=Tue, 22 Sep 2026 15:01:22 GMT, sortOrder=1; Path=/; Expires=Wed, 01 Aug 2035 15:01:22 GMT, sortOption=special_blend; Path=/; Expires=Wed, 01 Aug 2035 15:01:22 GMT, userPreferences=parcels%3Dtrue%26schools%3Dfalse%26mapStyle%3Ds%26statistics%3Dtrue%26agcTooltip%3Dfalse%26agentReset%3Dfalse%26ldpRegister%3Dfalse%26afCard%3D2%26schoolType%3D0%26viewedSwipeableHomeCardsDate%3D1758553282945; Path=/; Expires=Wed, 01 Aug 2035 15:01:22 GMT",
+    "Cache-Control": "max-age=0, no-cache, no-store, private",
+    "x-frame-options": "sameorigin",
+    "x-content-type-options": "nosniff",
+    "Link": "<https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/7920de80bad50c3c90e3.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/8d5d2afffbf88bbb5250.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/868593ea2cc83e3dbb32.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/f1a7d63961618790a831.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/93218b04cb17090469c8.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/124957d0d169604516d9.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/2fd409b0c3f5d12d37e8.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/fe521c20a1380ee40210.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/39d836610b50bbb56de8.css>; rel=preload; as=style, <https://ssl.cdn-redfin.com/bundles/customer-pages-map-dp/1c2b146ca50e3633cf7e.css>; rel=preload; as=style",
+    "Content-Encoding": "gzip",
+    "x-envoy-upstream-service-time": "63",
+    "Vary": "Accept-Encoding",
+    "X-Cache": "Miss from cloudfront",
+    "Via": "1.1 a7d06d5edabd8d772c713d1cb2e6261e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "O1ILEi35KgPMx6x2yPUpwEiudtLPoielNf1z4HG16rqx6_VErWoxeg=="
+  }
+}

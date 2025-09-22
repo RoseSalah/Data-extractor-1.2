@@ -1,0 +1,226 @@
+{
+  "conventions": {
+    "time": {
+      "timezone": "UTC",
+      "timestamp_format": "ISO-8601",
+      "date_format": "YYYY-MM-DD"
+    },
+    "units": {
+      "area": "sqft",
+      "distance": "miles",
+      "currency": "USD_numeric"
+    },
+    "booleans": "true_false",
+    "enums": "lower_snake_case",
+    "images": {
+      "store": "urls_only",
+      "order_preserved": true
+    },
+    "deduplication": {
+      "primary_key": [
+        "platform_id",
+        "external_property_id"
+      ],
+      "fallback_match": [
+        "address.street",
+        "address.city",
+        "address.state",
+        "address.postal_code",
+        "beds",
+        "baths",
+        "interior_area_sqft"
+      ]
+    }
+  },
+  "areas": [
+    {
+      "city": "Houston",
+      "state": "TX",
+      "zips": [
+        "77002",
+        "77007",
+        "77019",
+        "77024",
+        "77056"
+      ]
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "zips": [
+        "75201",
+        "75204",
+        "75205",
+        "75214",
+        "75230"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "zips": [
+        "85004",
+        "85008",
+        "85016",
+        "85018",
+        "85032"
+      ]
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "zips": [
+        "30305",
+        "30309",
+        "30324",
+        "30327",
+        "30339"
+      ]
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "zips": [
+        "60610",
+        "60611",
+        "60614",
+        "60657",
+        "60654"
+      ]
+    }
+  ],
+  "seeds": {
+    "zillow": {
+      "zip_search": "https://www.zillow.com/homes/{ZIP}/",
+      "city_search": "https://www.zillow.com/homes/{CITY}-{STATE}/",
+      "detail_pattern": "https://www.zillow.com/homedetails/{ADDRESS_TOKEN}/{ZPID}_zpid/"
+    },
+    "redfin": {
+      "zip_search": "https://www.redfin.com/zipcode/{ZIP}",
+      "city_search": "https://www.redfin.com/city/{CITY_ID}/{CITY}-{STATE}",
+      "detail_pattern": "https://www.redfin.com/{STATE}/{CITY}/{ADDRESS_TOKEN}/home/{PROPERTY_ID}"
+    },
+    "detail_urls": []
+  },
+  "data_spec": {
+    "identifiers": {
+      "listing_id": "int",
+      "platform_id": "enum[zillow|redfin|other]",
+      "source_url": "string_url",
+      "external_property_id": "string_nullable",
+      "batch_id": "string",
+      "scraped_timestamp": "datetime_iso"
+    },
+    "address": {
+      "street": "string",
+      "unit": "string_nullable",
+      "city": "string",
+      "state": "string",
+      "postal_code": "string",
+      "country": "string_nullable"
+    },
+    "geo": {
+      "latitude": "float_nullable",
+      "longitude": "float_nullable"
+    },
+    "property_core": {
+      "property_type": "enum_nullable",
+      "property_subtype": "enum_nullable",
+      "beds": "float_nullable",
+      "baths": "float_nullable",
+      "interior_area_sqft": "int_nullable",
+      "lot_sqft": "int_nullable",
+      "stories": "int_nullable",
+      "year_built": "int_nullable",
+      "condition": "enum_nullable"
+    },
+    "interior_features": {
+      "floor_type": "enum_nullable",
+      "heating": "string_nullable",
+      "cooling": "string_nullable",
+      "laundry": "enum_nullable",
+      "appliances": "list[string]"
+    },
+    "exterior_features": {
+      "parking_type": "enum_nullable",
+      "parking_spaces": "int_nullable",
+      "garage": "bool_nullable",
+      "pool": "bool_nullable",
+      "waterfront": "bool_nullable",
+      "hoa_amenities": "list[string]"
+    },
+    "utilities_systems": {
+      "electric": "string_nullable",
+      "water": "string_nullable",
+      "sewer": "string_nullable",
+      "internet": "string_nullable",
+      "energy_features": "list[string]"
+    },
+    "hoa_taxes": {
+      "hoa_fee": "float_nullable",
+      "hoa_fee_frequency": "enum_nullable",
+      "property_tax_annual": "float_nullable",
+      "tax_year": "int_nullable"
+    },
+    "listing": {
+      "listing_type": "enum[sell|rent]",
+      "status": "enum_nullable",
+      "list_date": "date_nullable",
+      "days_on_market": "int_nullable",
+      "list_price": "float_nullable",
+      "price_per_sqft": "float_nullable"
+    },
+    "pricing_finance": {
+      "previous_sale_date": "date_nullable",
+      "previous_sale_price": "float_nullable",
+      "down_payment": "float_nullable",
+      "loan_details": "object"
+    },
+    "market_signals": {
+      "views": "int_nullable",
+      "saves": "int_nullable",
+      "share_count": "int_nullable"
+    },
+    "media": {
+      "photos": "list[{url:string,caption:string_nullable}]",
+      "videos": "list[{url:string,caption:string_nullable}]",
+      "floorplans": "list[{url:string,caption:string_nullable}]"
+    },
+    "description": "string_nullable",
+    "history": {
+      "price_history": "list[{date:date,price:float,event:string}]",
+      "events_history": "list[{date:date,type:string,details:string}]"
+    },
+    "similar": {
+      "similar_properties": "list[string_url]"
+    },
+    "dedup": {
+      "possible_duplicate": "bool",
+      "duplicate_candidates": "list[string_url]"
+    },
+    "required_mvp": [
+      "platform_id",
+      "source_url",
+      "batch_id",
+      "scraped_timestamp",
+      "address.street",
+      "address.city",
+      "address.state",
+      "address.postal_code",
+      "beds",
+      "baths",
+      "interior_area_sqft",
+      "listing.list_price"
+    ]
+  },
+  "run": {
+    "request_timeout_sec": 30,
+    "sleep_range_sec": [
+      1.2,
+      2.8
+    ],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+    "max_search_pages_per_zip": 1,
+    "max_detail_per_batch": 10
+  }
+}
