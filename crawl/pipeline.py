@@ -5,9 +5,9 @@ import argparse
 import json
 from pathlib import Path
 from typing import List, Optional
-from src.fetch import fetch_detail_pages
-from src.parse_detail import parse_all_details
-from src.settings import now_utc_iso
+from crawl.fetch import fetch_detail_pages
+from crawl.parse_detail import parse_all_details
+from crawl.settings import now_utc_iso
 
 BATCHES_ROOT = Path("data/batches")
 

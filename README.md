@@ -51,7 +51,7 @@ Run from the project root:
 python -m src.batch
 
 # Step 2: Fetch detail pages
-python src/pipeline.py fetch-details --n 10
+python src/pipeline.py fetch --n 10
 
 # Step 3: Parse details into structured JSON
 python src/pipeline.py parse-details --limit 10

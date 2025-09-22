@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
-from src.settings import make_batch_dirs
+from crawl.settings import make_batch_dirs
 
 RED_FIN = re.compile(r"^https?://(?:www\.)?redfin\.com/.+/home/(\d+)", re.I)
 ZILL_OW = re.compile(r"^https?://(?:www\.)?zillow\.com/homedetails/.+?(\d+)_zpid/?", re.I)

@@ -9,7 +9,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Any, List, Optional
 from bs4 import BeautifulSoup
-from src.settings import (
+from crawl.settings import (
     make_batch_dirs,
     now_utc_iso,
 )
@@ -17,7 +17,7 @@ from src.settings import (
 # ---------------------------- helpers ----------------------------
 
 def _latest_batch() -> str:
-    root = Path("../data/batches")
+    root = Path("data/batches")
     latest = max((p for p in root.iterdir() if p.is_dir()), key=lambda p: p.stat().st_mtime, default=None)
     if latest is None:
         raise RuntimeError("No batches found. Run src/batch.py first.")

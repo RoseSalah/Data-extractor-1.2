@@ -2,7 +2,7 @@
 
 import json, datetime
 from pathlib import Path
-from src.settings import CFG, make_batch_dirs, today_ymd
+from crawl.settings import CFG, make_batch_dirs, today_ymd
 
 def init_batch() -> str:
     """

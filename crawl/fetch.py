@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 import requests
-from src.settings import (
+from crawl.settings import (
     CFG,
     PROJECT_ROOT,
     REQUEST_TIMEOUT_SEC,
