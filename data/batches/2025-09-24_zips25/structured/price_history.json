@@ -1,0 +1,233 @@
+[
+  {
+    "listing_id": "87e06389ce1d8e4b5856e099d35c39818af029f7",
+    "event_date": "6/17/2025",
+    "event_type": "Price change",
+    "price": 250000,
+    "notes": "-10.1% $221/sqft"
+  },
+  {
+    "listing_id": "87e06389ce1d8e4b5856e099d35c39818af029f7",
+    "event_date": "5/30/2025",
+    "event_type": "Listing removed",
+    "price": 2400,
+    "notes": "$2/sqft"
+  },
+  {
+    "listing_id": "87e06389ce1d8e4b5856e099d35c39818af029f7",
+    "event_date": "2/10/2025",
+    "event_type": "Listed for rent",
+    "price": 2400,
+    "notes": "$2/sqft"
+  },
+  {
+    "listing_id": "87e06389ce1d8e4b5856e099d35c39818af029f7",
+    "event_date": "10/11/2024",
+    "event_type": "Listed for sale",
+    "price": 278000,
+    "notes": "+13.5% $246/sqft"
+  },
+  {
+    "listing_id": "87e06389ce1d8e4b5856e099d35c39818af029f7",
+    "event_date": "4/8/2019",
+    "event_type": "Listing removed",
+    "price": 244900,
+    "notes": "$216/sqft"
+  },
+  {
+    "listing_id": "43d0bcd747af3b8177d7f4d158e8ad3404e8ac7b",
+    "event_date": "9/18/2025",
+    "event_type": "Price change",
+    "price": 340000,
+    "notes": "-1.4% $267/sqft"
+  },
+  {
+    "listing_id": "43d0bcd747af3b8177d7f4d158e8ad3404e8ac7b",
+    "event_date": "9/5/2025",
+    "event_type": "Pending sale",
+    "price": 345000,
+    "notes": "$271/sqft"
+  },
+  {
+    "listing_id": "43d0bcd747af3b8177d7f4d158e8ad3404e8ac7b",
+    "event_date": "7/1/2025",
+    "event_type": "Price change",
+    "price": 345000,
+    "notes": "-4.2% $271/sqft"
+  },
+  {
+    "listing_id": "43d0bcd747af3b8177d7f4d158e8ad3404e8ac7b",
+    "event_date": "3/25/2025",
+    "event_type": "Listed for sale",
+    "price": 360000,
+    "notes": "+7.5% $283/sqft"
+  },
+  {
+    "listing_id": "8e8409fc7c3b7d458c3043fbfb9530e637229788",
+    "event_date": "9/3/2025",
+    "event_type": "Price change",
+    "price": 224900,
+    "notes": "$181/sqft"
+  },
+  {
+    "listing_id": "8e8409fc7c3b7d458c3043fbfb9530e637229788",
+    "event_date": "7/9/2025",
+    "event_type": "Listed for sale",
+    "price": 229900,
+    "notes": "$185/sqft"
+  },
+  {
+    "listing_id": "178c645f82f8eb4c0ff3dd8d5dca354428082033",
+    "event_date": "9/22/2025",
+    "event_type": "Price change",
+    "price": 375000,
+    "notes": "Price cut: $24K (9/22)"
+  },
+  {
+    "listing_id": "178c645f82f8eb4c0ff3dd8d5dca354428082033",
+    "event_date": "9/11/2025",
+    "event_type": "Price change",
+    "price": 399000,
+    "notes": "Price change -2.7% $267/sqft"
+  },
+  {
+    "listing_id": "178c645f82f8eb4c0ff3dd8d5dca354428082033",
+    "event_date": "8/20/2025",
+    "event_type": "Price change",
+    "price": 410000,
+    "notes": "Price change -3.5% $274/sqft"
+  },
+  {
+    "listing_id": "178c645f82f8eb4c0ff3dd8d5dca354428082033",
+    "event_date": "7/7/2025",
+    "event_type": "Listed for sale",
+    "price": 425000,
+    "notes": "Listed for sale +28.8% $284/sqft"
+  },
+  {
+    "listing_id": "e7b69226441533403d36c3413a664d4efaac245f",
+    "event_date": "8/30/2025",
+    "event_type": "Price change",
+    "price": 269000,
+    "notes": "-3.6% $238/sqft"
+  },
+  {
+    "listing_id": "e7b69226441533403d36c3413a664d4efaac245f",
+    "event_date": "7/18/2025",
+    "event_type": "Price change",
+    "price": 279000,
+    "notes": "-6.7% $246/sqft"
+  },
+  {
+    "listing_id": "e7b69226441533403d36c3413a664d4efaac245f",
+    "event_date": "5/30/2025",
+    "event_type": "Price change",
+    "price": 299000,
+    "notes": "-3.5% $264/sqft"
+  },
+  {
+    "listing_id": "e7b69226441533403d36c3413a664d4efaac245f",
+    "event_date": "4/21/2025",
+    "event_type": "Listed for sale",
+    "price": 310000,
+    "notes": "+3.5% $274/sqft"
+  },
+  {
+    "listing_id": "086042962f0bd08dfaf60252e7ca7e08df7b728b",
+    "event_date": "7/22/2025",
+    "event_type": "Listed",
+    "price": 199999,
+    "notes": null
+  },
+  {
+    "listing_id": "086042962f0bd08dfaf60252e7ca7e08df7b728b",
+    "event_date": "7/22/2025",
+    "event_type": "Price change",
+    "price": 199999,
+    "notes": "Price cut: $9K (7/22)"
+  },
+  {
+    "listing_id": "60f1fdbe6826ff153ffcc33dfe912517c54d68ef",
+    "event_date": "5/9/2025",
+    "event_type": "Price change",
+    "price": 314900,
+    "notes": "-10% $92/sqft"
+  },
+  {
+    "listing_id": "60f1fdbe6826ff153ffcc33dfe912517c54d68ef",
+    "event_date": "10/18/2024",
+    "event_type": "Listed for sale",
+    "price": 349900,
+    "notes": "$103/sqft"
+  },
+  {
+    "listing_id": "693b06610d08d6cbaaaeb0abcdf2ac95e29e8b95",
+    "event_date": "9/22/2025",
+    "event_type": "Price change",
+    "price": 217500,
+    "notes": "Price cut: $2.5K (9/22)"
+  },
+  {
+    "listing_id": "693b06610d08d6cbaaaeb0abcdf2ac95e29e8b95",
+    "event_date": "8/1/2025",
+    "event_type": "Price change",
+    "price": 220000,
+    "notes": "+2.8% $192/sqft"
+  },
+  {
+    "listing_id": "693b06610d08d6cbaaaeb0abcdf2ac95e29e8b95",
+    "event_date": "7/4/2025",
+    "event_type": "Price change",
+    "price": 214000,
+    "notes": "-2.7% $187/sqft"
+  },
+  {
+    "listing_id": "693b06610d08d6cbaaaeb0abcdf2ac95e29e8b95",
+    "event_date": "7/1/2025",
+    "event_type": "Price change",
+    "price": 220000,
+    "notes": "-10.2% $192/sqft"
+  },
+  {
+    "listing_id": "693b06610d08d6cbaaaeb0abcdf2ac95e29e8b95",
+    "event_date": "6/2/2025",
+    "event_type": "Price change",
+    "price": 244990,
+    "notes": "0% $214/sqft"
+  },
+  {
+    "listing_id": "48087287c759f33f29357c6e42b1c3ef2b3fc22c",
+    "event_date": "6/25/2025",
+    "event_type": "Price change",
+    "price": 315000,
+    "notes": "-2.9% $296/sqft"
+  },
+  {
+    "listing_id": "48087287c759f33f29357c6e42b1c3ef2b3fc22c",
+    "event_date": "4/30/2025",
+    "event_type": "Listed for sale",
+    "price": 324500,
+    "notes": "+8.2% $305/sqft"
+  },
+  {
+    "listing_id": "48087287c759f33f29357c6e42b1c3ef2b3fc22c",
+    "event_date": "7/2/2021",
+    "event_type": "Listing removed",
+    "price": null,
+    "notes": null
+  },
+  {
+    "listing_id": "48087287c759f33f29357c6e42b1c3ef2b3fc22c",
+    "event_date": "5/26/2021",
+    "event_type": "Pending sale",
+    "price": 299900,
+    "notes": "$282/sqft"
+  },
+  {
+    "listing_id": "48087287c759f33f29357c6e42b1c3ef2b3fc22c",
+    "event_date": "3/17/2021",
+    "event_type": "Listed for sale",
+    "price": 299900,
+    "notes": "+67.5% $282/sqft"
+  }
+]

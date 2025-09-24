@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/915-N-San-Jacinto-St-Houston-TX-77002/454882733_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 24 Sep 2025 11:20:17 GMT",
+    "via": "1.1 zgs, 1.1 6be0cf45dd769e0a2f4c285fa867f216.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2457a9abb4-1240-41bd-929b-9b42dc732761; Max-Age=315576000; Expires=Mon, 24 Sep 2035 23:20:17 GMT; Path=/; Domain=.zillow.com, zgsession=1|448a8c9d-5c55-4824-87c4-f6cb6107e63c; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"61e0c-eG0z3rEJHBIrc2n1Kxcc+UZOgIU\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "391",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "pLKgXTYMZPAfIXe6qKNQ-Ci6dTs4zZ5GgyP-FTCAy28JgU_H7qKXcw==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

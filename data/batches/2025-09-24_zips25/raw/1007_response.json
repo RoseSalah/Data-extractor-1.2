@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "final_url": "https://www.zillow.com/homedetails/2000-Bagby-St-APT-7423-Houston-TX-77002/80582053_zpid/",
+  "headers": {
+    "Server": "CloudFront",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Wed, 24 Sep 2025 11:20:21 GMT",
+    "via": "1.1 zgs, 1.1 8bd4df1a152b4fe00406cb95fb769638.cloudfront.net (CloudFront)",
+    "set-cookie": "zguid=24|%2496649c82-6d16-411f-876a-6b27e5010925; Max-Age=315576000; Expires=Mon, 24 Sep 2035 23:20:21 GMT; Path=/; Domain=.zillow.com, zgsession=1|e80a5fbd-8371-425f-84d4-f1e50e63b4e5; Path=/; Domain=.zillow.com; HTTPOnly",
+    "etag": "W/\"68322-6en5MR3Z1aE72DI+RXMfeW4vOn4\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "x-envoy-upstream-service-time": "561",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Pop": "MRS53-P3",
+    "X-Amz-Cf-Id": "Ql573IrxdGsAAdExdEn5GBotXDVGtfPMIwh3fs7X2tCTnBTGSJpI4g==",
+    "X-XSS-Protection": "1",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-DNS-Prefetch-Control": "off"
+  }
+}

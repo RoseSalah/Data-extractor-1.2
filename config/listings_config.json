@@ -102,6 +102,11 @@
     },
     "detail_urls": []
   },
+  "crawl_plan": {
+    "mix_mode": "balanced",
+    "total_search_pages": 10,
+    "per_platform_min": 5
+  },
   "data_spec": {
     "identifiers": {
       "listing_id": "int",

@@ -1,0 +1,262 @@
+{
+  "batch_id": "2025-09-24_zips25",
+  "generated_at": "2025-09-24T11:19:18.874409Z",
+  "counts": {
+    "zip_total": 25,
+    "search_pages_total": 50,
+    "detail_pages_total": 0
+  },
+  "search_pages": [
+    {
+      "platform_id": "redfin",
+      "zip": "77002",
+      "url": "https://www.redfin.com/zipcode/77002"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "77002",
+      "url": "https://www.zillow.com/homes/77002/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "77007",
+      "url": "https://www.redfin.com/zipcode/77007"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "77007",
+      "url": "https://www.zillow.com/homes/77007/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "77019",
+      "url": "https://www.redfin.com/zipcode/77019"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "77019",
+      "url": "https://www.zillow.com/homes/77019/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "77024",
+      "url": "https://www.redfin.com/zipcode/77024"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "77024",
+      "url": "https://www.zillow.com/homes/77024/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "77056",
+      "url": "https://www.redfin.com/zipcode/77056"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "77056",
+      "url": "https://www.zillow.com/homes/77056/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "75201",
+      "url": "https://www.redfin.com/zipcode/75201"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "75201",
+      "url": "https://www.zillow.com/homes/75201/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "75204",
+      "url": "https://www.redfin.com/zipcode/75204"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "75204",
+      "url": "https://www.zillow.com/homes/75204/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "75205",
+      "url": "https://www.redfin.com/zipcode/75205"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "75205",
+      "url": "https://www.zillow.com/homes/75205/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "75214",
+      "url": "https://www.redfin.com/zipcode/75214"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "75214",
+      "url": "https://www.zillow.com/homes/75214/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "75230",
+      "url": "https://www.redfin.com/zipcode/75230"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "75230",
+      "url": "https://www.zillow.com/homes/75230/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "85004",
+      "url": "https://www.redfin.com/zipcode/85004"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "85004",
+      "url": "https://www.zillow.com/homes/85004/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "85008",
+      "url": "https://www.redfin.com/zipcode/85008"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "85008",
+      "url": "https://www.zillow.com/homes/85008/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "85016",
+      "url": "https://www.redfin.com/zipcode/85016"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "85016",
+      "url": "https://www.zillow.com/homes/85016/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "85018",
+      "url": "https://www.redfin.com/zipcode/85018"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "85018",
+      "url": "https://www.zillow.com/homes/85018/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "85032",
+      "url": "https://www.redfin.com/zipcode/85032"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "85032",
+      "url": "https://www.zillow.com/homes/85032/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "30305",
+      "url": "https://www.redfin.com/zipcode/30305"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "30305",
+      "url": "https://www.zillow.com/homes/30305/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "30309",
+      "url": "https://www.redfin.com/zipcode/30309"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "30309",
+      "url": "https://www.zillow.com/homes/30309/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "30324",
+      "url": "https://www.redfin.com/zipcode/30324"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "30324",
+      "url": "https://www.zillow.com/homes/30324/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "30327",
+      "url": "https://www.redfin.com/zipcode/30327"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "30327",
+      "url": "https://www.zillow.com/homes/30327/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "30339",
+      "url": "https://www.redfin.com/zipcode/30339"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "30339",
+      "url": "https://www.zillow.com/homes/30339/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "60610",
+      "url": "https://www.redfin.com/zipcode/60610"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "60610",
+      "url": "https://www.zillow.com/homes/60610/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "60611",
+      "url": "https://www.redfin.com/zipcode/60611"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "60611",
+      "url": "https://www.zillow.com/homes/60611/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "60614",
+      "url": "https://www.redfin.com/zipcode/60614"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "60614",
+      "url": "https://www.zillow.com/homes/60614/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "60657",
+      "url": "https://www.redfin.com/zipcode/60657"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "60657",
+      "url": "https://www.zillow.com/homes/60657/"
+    },
+    {
+      "platform_id": "redfin",
+      "zip": "60654",
+      "url": "https://www.redfin.com/zipcode/60654"
+    },
+    {
+      "platform_id": "zillow",
+      "zip": "60654",
+      "url": "https://www.zillow.com/homes/60654/"
+    }
+  ],
+  "detail_pages": []
+}

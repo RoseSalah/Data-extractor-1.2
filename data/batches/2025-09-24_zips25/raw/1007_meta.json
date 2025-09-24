@@ -1,0 +1,9 @@
+{
+  "requested_url": "https://www.zillow.com/homedetails/2000-Bagby-St-APT-7423-Houston-TX-77002/80582053_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/2000-Bagby-St-APT-7423-Houston-TX-77002/80582053_zpid/",
+  "status": 200,
+  "fetched_at": "2025-09-24T11:20:21Z",
+  "platform_id": "zillow",
+  "seed_kind": "detail",
+  "idx": 1007
+}

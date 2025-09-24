@@ -19,3 +19,4 @@ time
 dataclasses
 argparse
 hashlib
+urllib

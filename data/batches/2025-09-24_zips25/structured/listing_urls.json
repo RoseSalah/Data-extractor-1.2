@@ -1,0 +1,50 @@
+{
+  "count": 9,
+  "urls": [
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/2016-Main-St-PENTHOUSE-3-Houston-TX-77002/439686861_zpid/",
+      "external_property_id": "439686861"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/2000-Bagby-St-APT-7423-Houston-TX-77002/80582053_zpid/",
+      "external_property_id": "80582053"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/201-Main-St-UNIT-3H-Houston-TX-77002/62597240_zpid/",
+      "external_property_id": "62597240"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/2016-Main-St-APT-620-Houston-TX-77002/439663205_zpid/",
+      "external_property_id": "439663205"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/204-Travis-St-APT-4A-Houston-TX-77002/52411352_zpid/",
+      "external_property_id": "52411352"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/705-Main-St-UNIT-801-Houston-TX-77002/80552448_zpid/",
+      "external_property_id": "80552448"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/2016-Main-St-APT-1502-Houston-TX-77002/28388996_zpid/",
+      "external_property_id": "28388996"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/915-N-San-Jacinto-St-Houston-TX-77002/454882733_zpid/",
+      "external_property_id": "454882733"
+    },
+    {
+      "platform_id": "zillow",
+      "source_url": "https://www.zillow.com/homedetails/915-Franklin-St-UNIT-4A-Houston-TX-77002/58672104_zpid/",
+      "external_property_id": "58672104"
+    }
+  ]
+}

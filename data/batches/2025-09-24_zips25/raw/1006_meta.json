@@ -1,0 +1,9 @@
+{
+  "requested_url": "https://www.zillow.com/homedetails/915-N-San-Jacinto-St-Houston-TX-77002/454882733_zpid/",
+  "final_url": "https://www.zillow.com/homedetails/915-N-San-Jacinto-St-Houston-TX-77002/454882733_zpid/",
+  "status": 200,
+  "fetched_at": "2025-09-24T11:20:18Z",
+  "platform_id": "zillow",
+  "seed_kind": "detail",
+  "idx": 1006
+}

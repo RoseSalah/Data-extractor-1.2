@@ -1,0 +1,92 @@
+[
+  {
+    "location_id": "f89ee9826586429bea0851f97c16da89fdb31efc",
+    "street_address": "201 Main St",
+    "unit_number": "UNIT 3H",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "9ab8c080bd73e6140ae6977a9406abef708e125e",
+    "street_address": "2000 Bagby St",
+    "unit_number": "APT 7423",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "4bce8ea8c5d27da6937ad8c78d48dc89ec05e1ac",
+    "street_address": "915 N San Jacinto St",
+    "unit_number": null,
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "71ebee0b0473d155ca831b7e2bbae2b4121da5cd",
+    "street_address": "705 Main St",
+    "unit_number": "UNIT 801",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "ef680ee022d5a41bf09f51ef33d5924ad7fa73f4",
+    "street_address": "915 Franklin St",
+    "unit_number": "UNIT 4A",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "4863b0a13b96165ba18ab3b0cadaf161fab2620f",
+    "street_address": "2016 Main St",
+    "unit_number": "APT 620",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "5a11e3550bedd6a69c2f99e82ac4733b7ea48114",
+    "street_address": "2016 Main St",
+    "unit_number": "PENTHOUSE 3",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "e0fde25f170198ebe6d79b509b42a73ebe19e320",
+    "street_address": "2016 Main St",
+    "unit_number": "APT 1502",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_id": "64ed247e4d8778e228cf0db6ffa4c74b69e0eda6",
+    "street_address": "204 Travis St",
+    "unit_number": "APT 4A",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": null,
+    "longitude": null
+  }
+]
