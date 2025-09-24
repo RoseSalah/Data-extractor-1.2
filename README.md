@@ -18,6 +18,7 @@ REAL-ESTATE-LISTING-OPTIMIZATION/
 │   ├── __init__.py
 │   ├── batch.py
 │   ├── extract_search.py
+│   ├── fc_extract_adapted.py
 │   ├── fetch.py
 │   ├── parse_detail.py
 │   ├── pipeline.py

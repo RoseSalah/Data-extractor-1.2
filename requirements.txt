@@ -18,3 +18,4 @@ random
 time
 dataclasses
 argparse
+hashlib
