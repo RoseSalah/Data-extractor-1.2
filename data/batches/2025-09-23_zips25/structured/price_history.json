@@ -1,0 +1,205 @@
+[
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "event_date": "2025-08-29",
+    "event_type": "Price Changed",
+    "price": 413500,
+    "notes": null
+  },
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "event_date": "2025-07-11",
+    "event_type": "Listed (Active)",
+    "price": 420000,
+    "notes": null
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "event_date": "2025-08-20",
+    "event_type": "Listed (Active)",
+    "price": 199950,
+    "notes": "HARMLS #58119612"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "event_date": "2025-09-03",
+    "event_type": "Listed (Active)",
+    "price": 390000,
+    "notes": "Fizber.com #11560137"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "event_date": "2025-05-15",
+    "event_type": "Sold (MLS)",
+    "price": 320370,
+    "notes": "HARMLS #26665364"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "event_date": "2025-05-08",
+    "event_type": "Pending",
+    "price": null,
+    "notes": "HARMLS #26665364"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "event_date": "2025-05-02",
+    "event_type": "Pending (Option Pending)",
+    "price": null,
+    "notes": "HARMLS #26665364"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "event_date": "2025-02-26",
+    "event_type": "Price Changed",
+    "price": 395000,
+    "notes": "HARMLS #26665364"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "event_date": "2024-10-28",
+    "event_type": "Listed (Active)",
+    "price": 420000,
+    "notes": "HARMLS #26665364"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "event_date": "2025-09-20",
+    "event_type": "Listed",
+    "price": 320000,
+    "notes": "Active"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "event_date": "2025-07-31",
+    "event_type": "Price Changed",
+    "price": 320000,
+    "notes": "Price Change"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "event_date": "2025-07-24",
+    "event_type": "Listed",
+    "price": 325000,
+    "notes": "Active"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "event_date": "2025-09-01",
+    "event_type": "Listed (Active)",
+    "price": 799000,
+    "notes": null
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "event_date": "2025-09-02",
+    "event_type": "Listed for Rent",
+    "price": 5500,
+    "notes": null
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "event_date": "2025-06-17",
+    "event_type": "Listed (Active)",
+    "price": 250000,
+    "notes": "HARMLS #24473302"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "event_date": "2025-07-15",
+    "event_type": "Listed for Rent",
+    "price": 2400,
+    "notes": "RENTSPREE #1"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "event_date": "2025-07-21",
+    "event_type": "Rental Removed",
+    "price": 2400,
+    "notes": "RENTSPREE #1"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "event_date": "2025-07-22",
+    "event_type": "Listed for Rent",
+    "price": 2400,
+    "notes": "RENTSPREE #1"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "event_date": "2025-08-28",
+    "event_type": "Rental Removed",
+    "price": 2400,
+    "notes": "RENTSPREE #1"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "event_date": "2025-05-09",
+    "event_type": "Listed (Active)",
+    "price": 314900,
+    "notes": "HARMLS #50265566"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "event_date": "2025-04-30",
+    "event_type": "Listing Removed",
+    "price": null,
+    "notes": "HARMLS #34169129"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "event_date": "2024-10-17",
+    "event_type": "Listed (Active)",
+    "price": 349900,
+    "notes": "HARMLS #34169129"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "event_date": "Sep 17, 2025",
+    "event_type": "Price Changed",
+    "price": 214900,
+    "notes": null
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "event_date": "Aug 18, 2025",
+    "event_type": "Price Changed",
+    "price": 224900,
+    "notes": null
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "event_date": "Jul 3, 2025",
+    "event_type": "Listed (Active)",
+    "price": 244900,
+    "notes": null
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "event_date": "Sep 5, 2025",
+    "event_type": "Listed (Active)",
+    "price": 659000,
+    "notes": "HARMLS #40083145"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "event_date": "Sep 4, 2025",
+    "event_type": "Listing Removed",
+    "price": null,
+    "notes": "HARMLS #39301844"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "event_date": "Aug 7, 2025",
+    "event_type": "Listed (Active)",
+    "price": 689000,
+    "notes": "HARMLS #39301844"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "event_date": "2025-08-29",
+    "event_type": "Listed (Active)",
+    "price": 149500,
+    "notes": null
+  }
+]

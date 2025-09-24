@@ -5,6 +5,7 @@
 from __future__ import annotations
 import json
 import re
+import hashlib
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Any, List, Optional
@@ -426,6 +427,85 @@ def parse_all_details(batch_id: Optional[str] = None, limit: int = 10, start_idx
         except Exception as e:
             print(f"[{idx}] ERROR {type(e).__name__}: {e}")
     return results
+
+
+# --- NEW: adapted writer for the new DB schema ---
+def _stable_uuid(*parts: str) -> str:
+    s = "|".join([p for p in parts if p])
+    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:32]  # ثابت وكفاية كبداية
+
+def to_adapted_rows(structured: dict) -> dict:
+    """
+    Map the existing 'structured' dict (our current single JSON)
+    into per-table rows that match the new schema shape.
+    """
+    listing_id = _stable_uuid(structured["platform_id"], structured["external_property_id"] or structured["source_url"])
+    property_id = listing_id 
+
+    # listings (Core Listings)
+    listing_row = {
+        "listing_id": listing_id,
+        "property_id": property_id,
+        "batch_id": structured["batch_id"],
+        "platform_id": structured["platform_id"],
+        "source_url": structured["source_url"],
+        "scraped_timestamp": structured["scraped_timestamp"],
+        "list_date": structured.get("listing", {}).get("list_date"),
+        "days_on_market": structured.get("listing", {}).get("days_on_market"),
+        "description": structured.get("description"),
+        "listing_type": structured.get("listing", {}).get("listing_type"),
+        "status": structured.get("listing", {}).get("status"),
+        "title": None
+    }
+
+    # properties (Property Information)
+    a = structured["address"] or {}
+    prop_row = {
+        "property_id": property_id,
+        "location_id": None,  # to be linked later
+        "interior_area_sqft": structured.get("interior_area_sqft"),
+        "lot_size_sqft": structured.get("lot_sqft"),
+        "year_built": structured.get("year_built"),
+        "beds": structured.get("beds"),
+        "baths": structured.get("baths"),
+        "features": structured.get("features") or {},
+        "created_at": structured["scraped_timestamp"],
+        "updated_at": structured["scraped_timestamp"],
+        "property_type": structured.get("property_type"),
+        "property_subtype": structured.get("property_subtype"),
+        "condition": structured.get("condition"),
+    }
+
+    # media (Media & Content)
+    media_rows = []
+    for i, m in enumerate(structured.get("media") or []):
+        media_rows.append({
+            "listing_id": listing_id,
+            "media_url": m.get("url"),
+            "caption": m.get("caption"),
+            "display_order": i,
+            "is_primary": True if i == 0 else False,
+            "created_at": structured["scraped_timestamp"],
+            "media_type": m.get("type") or "image",
+        })
+
+    agent_rows = []  
+
+    ph_rows = [] 
+    
+    fin_rows = []  
+
+    loc_rows = []  
+    
+    return {
+        "listings": [listing_row],
+        "properties": [prop_row],
+        "media": media_rows,
+        "agents": agent_rows,
+        "price_history": ph_rows,
+        "listing_financials": fin_rows,
+        "locations": loc_rows,
+    }
 
 # ----------------------------- CLI ------------------------------
 if __name__ == "__main__":

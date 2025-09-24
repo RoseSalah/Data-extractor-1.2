@@ -1,0 +1,21 @@
+{
+  "status": 202,
+  "final_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-1904/home/29503130",
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Tue, 23 Sep 2025 11:28:16 GMT",
+    "Content-Length": "0",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
+    "Access-Control-Expose-Headers": "x-amzn-waf-action",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 e5c9ccf9978a5dc7af1f4be82495cd98.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "MRS52-P6",
+    "X-Amz-Cf-Id": "IzdgMIOt5ehe1vopxUOV6Ufig1VaTt1VnRyORK9ErYV37Tpi_gokGA=="
+  }
+}

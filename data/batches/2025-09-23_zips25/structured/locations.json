@@ -1,0 +1,102 @@
+[
+  {
+    "location_id": "d9aac0393d0f16108e93f107b728dc9c3700b216",
+    "street_address": "2000 Bagby St",
+    "unit_number": "7414",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7526195,
+    "longitude": -95.3765748
+  },
+  {
+    "location_id": "c68b7953338bc0b26c07125a8254ccd75c42c54e",
+    "street_address": "2016 Main St",
+    "unit_number": "#1904",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7491884,
+    "longitude": -95.3716479
+  },
+  {
+    "location_id": "2312807578759b4979e3be117c514a0c2f56bd59",
+    "street_address": "2000 Bagby St",
+    "unit_number": "7416",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7526195,
+    "longitude": -95.3765748
+  },
+  {
+    "location_id": "6baec6cd93eecb80fddc51bfe2b7b5be640a3ed0",
+    "street_address": "2000 Bagby St",
+    "unit_number": "5423",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7526195,
+    "longitude": -95.3765748
+  },
+  {
+    "location_id": "aa8465d42db030cc23d469565978efd56acb57a6",
+    "street_address": "2000 Bagby St St",
+    "unit_number": "#13430",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7526195,
+    "longitude": -95.3765748
+  },
+  {
+    "location_id": "f11ad5f564dd3c923764104e9f005f7fa32f8103",
+    "street_address": "201 Main St",
+    "unit_number": "3H",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7629483,
+    "longitude": -95.3605563
+  },
+  {
+    "location_id": "01139cc2e56805618902ba2ccb99b49b2bc6135a",
+    "street_address": "2016 Main St",
+    "unit_number": "Ph 3",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7491884,
+    "longitude": -95.3716479
+  },
+  {
+    "location_id": "0ceebb56efea820df73efa016e69e38ac22553a0",
+    "street_address": "300 St Joseph Pkwy",
+    "unit_number": "116",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7534513,
+    "longitude": -95.3760841
+  },
+  {
+    "location_id": "85e591f6119ba4ddfb6f03587bd8f0ee900c44a3",
+    "street_address": "2006 Helena St",
+    "unit_number": null,
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7533665,
+    "longitude": -95.3780768
+  },
+  {
+    "location_id": "3787cf8555eb5f9ed3a20f1d11c84f62c6fc3e92",
+    "street_address": "2016 Main St",
+    "unit_number": "2111",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77002",
+    "latitude": 29.7491884,
+    "longitude": -95.3716479
+  }
+]

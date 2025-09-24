@@ -1,0 +1,632 @@
+[
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/bigphoto/762/60887762_3.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:05:02.461Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/762/genMid.60887762_6_3.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:02.461Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/762/genMid.60887762_19_3.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:02.461Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/762/genMid.60887762_10_3.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:02.461Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/762/genMid.60887762_15_3.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:02.461Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/762/genMid.60887762_3_3.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:02.461Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "679dae740fc1f0795eacccf6ccf3b10eb6c54f05",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/762/genMid.60887762_13_3.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:02.461Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/bigphoto/612/58119612_1.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:05:33.954Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/612/genMid.58119612_10_1.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:33.954Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/612/genMid.58119612_30_1.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:33.954Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/612/genMid.58119612_16_1.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:33.954Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/612/genMid.58119612_24_1.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:33.954Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/612/genMid.58119612_6_1.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:33.954Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "1971aeef84755d0fd9181d201579e19887ea0ed7",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/612/genMid.58119612_20_1.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:33.954Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "media_url": "https://ssl.cdn-redfin.com/photo/221/mbpaddedwide/137/genMid.11560137_0.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:05:56.149Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "media_url": "https://ssl.cdn-redfin.com/photo/221/mbpaddedwide/137/genMid.11560137_1_0.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:56.149Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "5203fe48820920771f37ddee0aa8c00a8689b231",
+    "media_url": "https://ssl.cdn-redfin.com/photo/221/mbpaddedwide/137/genMid.11560137_2_0.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:05:56.149Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_0.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_1_0.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_2_0.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_3_0.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_6_0.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_10_0.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_15_0.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "a5937744c74ea318dccc3df0705b95e3126c9479",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/535/genMid.24752535_19_0.jpg",
+    "caption": null,
+    "display_order": 7,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:06:33.756Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/bigphoto/665/61013665_3.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:07:10.482Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/665/genMid.61013665_9_3.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:07:10.482Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/665/genMid.61013665_29_3.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:07:10.482Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/665/genMid.61013665_15_3.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:07:10.482Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/665/genMid.61013665_23_3.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:07:10.482Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/665/genMid.61013665_5_3.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:07:10.482Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "d19ceee0516030dac8b4a455e9e51bfb1983fbac",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/665/genMid.61013665_19_3.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:07:10.482Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/bigphoto/302/24473302_6.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:10:10.941Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/302/genMid.24473302_6_8.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:10.941Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/302/genMid.24473302_18_8.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:10.941Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/302/genMid.24473302_10_8.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:10.941Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/302/genMid.24473302_15_8.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:10.941Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/302/genMid.24473302_3_8.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:10.941Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "3eed8e5b4fc82ba1fd59d7ec595dc7e40114fffe",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/302/genMid.24473302_12_8.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:10.941Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/566/genMid.50265566_3.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:10:41.880Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/566/genMid.50265566_12_3.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:41.880Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/566/genMid.50265566_37_3.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:41.880Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/566/genMid.50265566_20_3.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:41.880Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/566/genMid.50265566_30_3.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:41.880Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/566/genMid.50265566_7_3.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:41.880Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2f0aac2eb3dbefa79c30f997ea98d71a9dc6a875",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/566/genMid.50265566_25_3.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:41.880Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/330/genMid.43250330_2.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:10:58.090Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/330/genMid.43250330_5_2.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:58.090Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/330/genMid.43250330_16_2.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:58.090Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/330/genMid.43250330_8_2.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:58.090Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/330/genMid.43250330_13_2.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:58.090Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/330/genMid.43250330_3_2.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:58.090Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "bf9cc70b618e0575bcb5d48d452ffab7405dded8",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/330/genMid.43250330_11_2.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:10:58.090Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_7.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_1_7.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_2_7.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_3_7.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_4_7.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_5_7.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_6_7.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_8_7.jpg",
+    "caption": null,
+    "display_order": 7,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_9_7.jpg",
+    "caption": null,
+    "display_order": 8,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "13eb930264bfca4496991937de305169c0d70390",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/145/genMid.40083145_10_7.jpg",
+    "caption": null,
+    "display_order": 9,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:17.228Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/bigphoto/928/79254928_0.jpg",
+    "caption": null,
+    "display_order": 0,
+    "is_primary": true,
+    "created_at": "2025-09-23T12:11:47.405Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/928/genMid.79254928_3_0.jpg",
+    "caption": null,
+    "display_order": 1,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:47.405Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/928/genMid.79254928_9_0.jpg",
+    "caption": null,
+    "display_order": 2,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:47.405Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/928/genMid.79254928_5_0.jpg",
+    "caption": null,
+    "display_order": 3,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:47.405Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/928/genMid.79254928_7_0.jpg",
+    "caption": null,
+    "display_order": 4,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:47.405Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/928/genMid.79254928_1_0.jpg",
+    "caption": null,
+    "display_order": 5,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:47.405Z",
+    "media_type": "image"
+  },
+  {
+    "listing_id": "2ed458bed5735fbce43e9c1903af912cca3b4d3b",
+    "media_url": "https://ssl.cdn-redfin.com/photo/104/mbphotov3/928/genMid.79254928_6_0.jpg",
+    "caption": null,
+    "display_order": 6,
+    "is_primary": false,
+    "created_at": "2025-09-23T12:11:47.405Z",
+    "media_type": "image"
+  }
+]

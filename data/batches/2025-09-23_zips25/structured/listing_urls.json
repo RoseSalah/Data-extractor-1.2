@@ -1,0 +1,210 @@
+{
+  "count": 41,
+  "urls": [
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2000-Bagby-St-77002/unit-7414/home/29515607",
+      "external_property_id": "29515607"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-1904/home/29503130",
+      "external_property_id": "29503130"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2000-Bagby-St-77002/unit-7416/home/29515609",
+      "external_property_id": "29515609"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2000-Bagby-St-77002/unit-5423/home/29515583",
+      "external_property_id": "29515583"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2000-Bagby-St-77002/unit-13430/home/29515791",
+      "external_property_id": "29515791"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/201-Main-St-77002/unit-3H/home/29200990",
+      "external_property_id": "29200990"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-3/home/30489197",
+      "external_property_id": "30489197"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/300-St-Joseph-Pkwy-77002/unit-116/home/29591078",
+      "external_property_id": "29591078"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2006-Helena-St-77002/home/29412203",
+      "external_property_id": "29412203"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-2111/home/170217385",
+      "external_property_id": "170217385"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-1704/home/30489252",
+      "external_property_id": "30489252"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/1211-Caroline-St-77002/unit-1007/home/170261542",
+      "external_property_id": "170261542"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/915-Franklin-St-77002/unit-9I/home/30717131",
+      "external_property_id": "30717131"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2000-Bagby-St-77002/unit-5432/home/29515592",
+      "external_property_id": "29515592"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-620/home/30489681",
+      "external_property_id": "30489681"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/915-Franklin-St-77002/unit-9N/home/30717184",
+      "external_property_id": "30717184"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/1211-Caroline-St-77002/unit-906/home/170261535",
+      "external_property_id": "170261535"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/300-St-Joseph-Pkwy-77002/unit-223/home/29591117",
+      "external_property_id": "29591117"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/915-Franklin-St-77002/unit-9L/home/30717182",
+      "external_property_id": "30717182"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/124-Oak-Place-Dr-77006/home/30705243",
+      "external_property_id": "30705243"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/1211-Caroline-St-77002/unit-1708/home/170261587",
+      "external_property_id": "170261587"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/705-Main-St-77002/unit-302/home/29396152",
+      "external_property_id": "29396152"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/915-Franklin-St-77002/unit-4A/home/30717064",
+      "external_property_id": "30717064"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-2305/home/30489348",
+      "external_property_id": "30489348"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-902/home/30489520",
+      "external_property_id": "30489520"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/705-Main-St-77002/unit-801/home/29396115",
+      "external_property_id": "29396115"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-1502/home/30489627",
+      "external_property_id": "30489627"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/1211-Caroline-St-77002/unit-1502/home/170261570",
+      "external_property_id": "170261570"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/705-Main-St-77002/unit-315/home/29396180",
+      "external_property_id": "29396180"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/300-St-Joseph-Pkwy-77002/unit-112/home/29591080",
+      "external_property_id": "29591080"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2016-Main-St-77002/unit-1403/home/30489602",
+      "external_property_id": "30489602"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/915-Franklin-St-77002/unit-2L/home/30717081",
+      "external_property_id": "30717081"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/1120-Texas-St-77002/unit-7D/home/30709065",
+      "external_property_id": "30709065"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/300-St-Joseph-Pkwy-77002/unit-419/home/29593084",
+      "external_property_id": "29593084"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2263-Austin-St-77002/home/29132871",
+      "external_property_id": "29132871"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2000-Bagby-St-77002/unit-9420/home/29515627",
+      "external_property_id": "29515627"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/915-Franklin-St-77002/unit-2I/home/30717084",
+      "external_property_id": "30717084"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2008-Helena-St-77002/home/29412202",
+      "external_property_id": "29412202"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/2000-Bagby-St-77002/unit-2401/home/29515671",
+      "external_property_id": "29515671"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/705-Main-St-77002/unit-607/home/29396100",
+      "external_property_id": "29396100"
+    },
+    {
+      "platform_id": "redfin",
+      "source_url": "https://www.redfin.com/TX/Houston/1120-Texas-St-77002/unit-5D/home/30709049",
+      "external_property_id": "30709049"
+    }
+  ]
+}

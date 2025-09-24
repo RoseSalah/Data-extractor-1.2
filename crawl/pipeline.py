@@ -8,7 +8,7 @@ from typing import List, Optional
 from crawl.fetch import fetch_detail_pages
 from crawl.parse_detail import parse_all_details
 from crawl.settings import now_utc_iso
-
+from crawl.parse_detail import to_adapted_rows 
 BATCHES_ROOT = Path("data/batches")
 
 def latest_batch() -> Path:
@@ -74,6 +74,8 @@ def main():
     s2 = sub.add_parser("parse-details", help="Parse up to LIMIT detail pages in the latest batch")
     s2.add_argument("--limit", type=int, default=10)
 
+    s2.add_argument("--mode", choices=["raw","adapted"], default="raw")
+
     s3 = sub.add_parser("run", help="Fetch N detail pages then parse them")
     s3.add_argument("--n", type=int, default=10)
 
@@ -81,10 +83,31 @@ def main():
     if args.cmd == "fetch-details":
         fetch_details(args.n)
     elif args.cmd == "parse-details":
-        parse_details(args.limit)
+        if args.mode == "raw":
+            parse_details(args.limit)
+        else:
+            # نقرأ النتائج المُهيكلة الحالية ثم نكتبها JSONL per-table
+            from pathlib import Path
+            batch_dir = latest_batch()
+            struct = batch_dir / "structured"
+            from collections import defaultdict
+            buckets = defaultdict(list)
+            # مرّ على كل ملفات 1***.json التي يولدها parse_detail
+            for p in sorted(struct.glob("1???*.json")):
+                rec = json.loads(p.read_text(encoding="utf-8"))
+                rows = to_adapted_rows(rec)
+                for tbl, arr in rows.items():
+                    buckets[tbl].extend(arr)
+            # اكتب jsonl
+            for tbl, arr in buckets.items():
+                out = struct / f"{tbl}.jsonl"
+                with out.open("w", encoding="utf-8") as f:
+                    for r in arr:
+                        f.write(json.dumps(r, ensure_ascii=False) + "\n")
+            print("✅ wrote adapted JSONL files in", struct)
+        print("✅ parse-details done at", now_utc_iso())
     elif args.cmd == "run":
         fetch_details(args.n)
-        parse_details(args.n)
     else:
         ap.print_help()
 
