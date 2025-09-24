@@ -14,7 +14,7 @@ The platform aims to help real estate agents identify **mispriced or poorly opti
 REAL-ESTATE-LISTING-OPTIMIZATION/
 │── config/
 │── data/
-│── src/
+│── crawl/
 │   ├── __init__.py
 │   ├── batch.py
 │   ├── extract_search.py
